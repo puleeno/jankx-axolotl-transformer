@@ -1,0 +1,19 @@
+{
+  "name": "@jankx/axolotl-transformer",
+  "version": "1.0.0",
+  "description": "Jankx React Native stylesheets for Axolotl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puleeno/jankx-axolotl-transformer.git"
+  },
+  "author": "Puleeno Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puleeno/jankx-axolotl-transformer/issues"
+  },
+  "homepage": "https://github.com/puleeno/jankx-axolotl-transformer#readme"
+}
